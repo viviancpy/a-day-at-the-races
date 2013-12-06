@@ -1,9 +1,0 @@
-C:\CSharp\HeadFirstCSharpMyTrial\ADayAtTheRaces\ADayAtTheRaces\ADayAtTheRaces\bin\Debug\ADayAtTheRaces.exe.config
-C:\CSharp\HeadFirstCSharpMyTrial\ADayAtTheRaces\ADayAtTheRaces\ADayAtTheRaces\bin\Debug\ADayAtTheRaces.exe
-C:\CSharp\HeadFirstCSharpMyTrial\ADayAtTheRaces\ADayAtTheRaces\ADayAtTheRaces\bin\Debug\ADayAtTheRaces.pdb
-C:\CSharp\HeadFirstCSharpMyTrial\ADayAtTheRaces\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.csprojResolveAssemblyReference.cache
-C:\CSharp\HeadFirstCSharpMyTrial\ADayAtTheRaces\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.Properties.Resources.resources
-C:\CSharp\HeadFirstCSharpMyTrial\ADayAtTheRaces\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.RacesForm.resources
-C:\CSharp\HeadFirstCSharpMyTrial\ADayAtTheRaces\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.csproj.GenerateResource.Cache
-C:\CSharp\HeadFirstCSharpMyTrial\ADayAtTheRaces\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.exe
-C:\CSharp\HeadFirstCSharpMyTrial\ADayAtTheRaces\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.pdb
