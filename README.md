@@ -1,2 +1,3 @@
 # a-day-at-the-races
-A simple example to do an interactive winForms and win a free e-book from the author :)
+This is a simple example to demonstrate an interactive winForms which I submitted to headfirst lab compeitition for a free Oreilly e-book quota.
+And thanks Andrew Stellman for writing the excellent book.
